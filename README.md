@@ -1,4 +1,4 @@
 # apnacolllege-demo
-This is my first github using experience
+This is my first git repository.
 <br>
-This is only for knowledge.
+This is only for knowledge and fun.
